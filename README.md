@@ -42,9 +42,9 @@ Each audit typically includes the following:
 
 I'm actively looking for opportunities in smart contract auditing or Web3 security research.
 
-- 📧 Email: your.email@example.com  
-- 🌐 Twitter: [@yourhandle](https://x.com/starkxun)  
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/吴-逊-0a2733264/)
+- 📧 Email: starkxun5215@gmail.com  
+- 🌐 Twitter: [@starkxun](https://x.com/starkxun)  
+- 💼 LinkedIn: [starkxun](https://linkedin.com/in/吴-逊-0a2733264/)
 
 Feel free to reach out if you’d like me to audit your project or collaborate!
 
