@@ -10,9 +10,9 @@ Each report is written in a professional format and follows best practices inspi
 
 | Project        | Type           | Tech Stack          | Audit Focus                      | Link                     |
 |----------------|----------------|----------------------|----------------------------------|--------------------------|
-| **Password**   | NFT Platform   | Solidity, ERC721     | Business logic, access control  | [View Report](./Password_Audit_Report.md)  |
-| **PuppyRaffle**| Raffle Game    | Solidity, Chainlink  | Randomness, fairness, gas       | [View Report](./PuppyRaffle_Audit_Report.md) |
-| **TSwap**      | DEX Protocol   | Solidity, AMM        | Constant product formula, logic correctness, fuzz testing | [View Report](./TSwap_Audit_Report.md) |
+| **Password**   | NFT Platform   | Solidity, ERC721     | Business logic, access control  | [View Report](./2025-5-12-password-audit.pdf)  |
+| **PuppyRaffle**| Raffle Game    | Solidity, Chainlink  | Randomness, fairness, gas       | [View Report](./2025-6-6-PuppuRaffle-audit.pdf) |
+| **TSwap**      | DEX Protocol   | Solidity, AMM        | Constant product formula, logic correctness, fuzz testing | [View Report](./2025-6-19-t-swap-audit.pdf) |
 
 ---
 
