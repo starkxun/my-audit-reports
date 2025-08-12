@@ -13,7 +13,7 @@ Each report is written in a professional format and follows best practices inspi
 | **Password**   | NFT Platform   | Solidity, ERC721     | Business logic, access control  | [View Report](./2025-5-12-password-audit.pdf)  |
 | **PuppyRaffle**| Raffle Game    | Solidity, Chainlink  | Randomness, fairness, gas       | [View Report](./2025-6-6-PuppuRaffle-audit.pdf) |
 | **TSwap**      | DEX Protocol   | Solidity, AMM        | Constant product formula, logic correctness, fuzz testing | [View Report](./2025-6-19-t-swap-audit.pdf) |
-| **Hypovault**  | DeFi / Derivatives / Options Vault | Solidity, Uniswap v3, Chainlink  |NAV accuracy,fee logic, exposure handling, liquidity accounting, edge-case safety| [View Report](./2025-8-12-Panoptic Hypovault) |
+| **Hypovault**  | DeFi / Derivatives / Options Vault | Solidity, Uniswap v3, Chainlink  |NAV accuracy,fee logic, exposure handling, liquidity accounting, edge-case safety| [View Report](./2025-8-12-Panoptic%20Hypovault.pdf) |
 ---
 
 ## 🔍 Audit Methodology
